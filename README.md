@@ -1,2 +1,2 @@
 # 1-dars
-Chunolmadim nima bu
+Githubga kirish
